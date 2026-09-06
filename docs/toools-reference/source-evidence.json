@@ -1,0 +1,3072 @@
+{
+  "title": "Design Resources & Tools for Designers | TOOOLS.design",
+  "body": {
+    "tag": "BODY",
+    "class": "",
+    "text": "Home\nNewsletter\nBlog\nDeals\nDiscover the Best Design Resources & Tools\n\n\nA growing directory of ",
+    "box": [
+      0,
+      0,
+      1440,
+      9626
+    ],
+    "font": "Inter, Arial, sans-serif",
+    "size": "16px",
+    "weight": "400",
+    "line": "22.4px",
+    "gap": "normal",
+    "padding": "0px",
+    "radius": "0px",
+    "background": "rgb(243, 244, 253) url(\"https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/6a09586de302f22e60fd3e8e_bg-body-top.jpg\") no-repeat scroll 50% 0px / 1650px auto padding-box border-box",
+    "color": "rgb(10, 5, 35)",
+    "shadow": "none"
+  },
+  "headings": [
+    {
+      "self": {
+        "tag": "H1",
+        "class": "headline_1",
+        "text": "Discover the Best Design Resources & Tools\n",
+        "box": [
+          92,
+          147,
+          556,
+          97
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "46px",
+        "weight": "700",
+        "line": "48.3px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "hero_left-inner",
+        "text": "Discover the Best Design Resources & Tools\n\n\nA growing directory of 2,200+ design resources, we",
+        "box": [
+          90,
+          147,
+          560,
+          178
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "46px",
+        "weight": "400",
+        "line": "64.4px",
+        "gap": "20px",
+        "padding": "0px 2px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H2",
+        "class": "headline_2",
+        "text": "Featured Design Tools",
+        "box": [
+          92,
+          812,
+          322,
+          32
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "32px",
+        "weight": "700",
+        "line": "32px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_header",
+        "text": "Featured Design Tools",
+        "box": [
+          90,
+          812,
+          1260,
+          68
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "line": "22.4px",
+        "gap": "normal",
+        "padding": "0px 0px 36px 2px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3 featured-item",
+        "text": "AI Product Design Certification",
+        "box": [
+          113,
+          1125,
+          282,
+          53
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "AI Product Design Certification\n\nA new AI certification from Designlab where you learn from pra",
+        "box": [
+          110,
+          1125,
+          359,
+          130
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3 featured-item",
+        "text": "Readymag",
+        "box": [
+          544,
+          1125,
+          282,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "Readymag\n\nCreate all kinds of websites with flexibility and complete creative freedom.",
+        "box": [
+          541,
+          1125,
+          359,
+          81
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3 featured-item",
+        "text": "Mobbin MCP",
+        "box": [
+          974,
+          1125,
+          282,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "Mobbin MCP\n\nMobbin MCP connects your AI agents to 600,000+ real product screens.",
+        "box": [
+          971,
+          1125,
+          359,
+          81
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H2",
+        "class": "headline_2",
+        "text": "Top Partner Picks*",
+        "box": [
+          92,
+          1401,
+          265,
+          33
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "32px",
+        "weight": "700",
+        "line": "32px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_header",
+        "text": "Top Partner Picks*",
+        "box": [
+          90,
+          1401,
+          1260,
+          69
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "line": "22.4px",
+        "gap": "normal",
+        "padding": "0px 0px 36px 2px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "IxDF",
+        "box": [
+          113,
+          1653,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "IxDF\n\nLearn UX, AI, and digital design. Earn industry-recognized course certificates.",
+        "box": [
+          110,
+          1653,
+          251,
+          104
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "Mobbin MCP",
+        "box": [
+          436,
+          1653,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "Mobbin MCP\n\nConnect your AI agent to 600,000+ real product screens.",
+        "box": [
+          433,
+          1653,
+          251,
+          81
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "Coursera",
+        "box": [
+          759,
+          1653,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "Coursera\n\nOnline courses and certificates from leading companies like Google, IBM, Meta, and Ad",
+        "box": [
+          756,
+          1653,
+          251,
+          104
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "Designlab",
+        "box": [
+          1082,
+          1653,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "Designlab\n\nAward-winning online UI/UX bootcamp.",
+        "box": [
+          1079,
+          1653,
+          251,
+          81
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "Webflow",
+        "box": [
+          1405,
+          1653,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "Webflow\n\nBuild better websites, faster. Without coding.",
+        "box": [
+          1402,
+          1653,
+          251,
+          81
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "Framer",
+        "box": [
+          1728,
+          1653,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "Framer\n\nDesign and publish your dream site. Zero code, maximum speed.",
+        "box": [
+          1725,
+          1653,
+          251,
+          104
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "Uxcel",
+        "box": [
+          2051,
+          1653,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "Uxcel\n\nLearn UX design, Product Management & AI skills with interactive courses that are effect",
+        "box": [
+          2048,
+          1653,
+          251,
+          126
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "SaaSFrame",
+        "box": [
+          2374,
+          1653,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "SaaSFrame\n\nCreate product interfaces faster than ever with this large UI library.",
+        "box": [
+          2371,
+          1653,
+          251,
+          104
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H2",
+        "class": "headline_2",
+        "text": "Latest Design Resources",
+        "box": [
+          92,
+          1974,
+          818,
+          32
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "32px",
+        "weight": "700",
+        "line": "32px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "section-headline__latest",
+        "text": "Latest Design Resources\n38 tools added in the last 30 days.",
+        "box": [
+          90,
+          1974,
+          822,
+          62
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "400",
+        "line": "22.4px",
+        "gap": "8px",
+        "padding": "0px 2px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "Zoah",
+        "box": [
+          113,
+          2255,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "Zoah\n\nCanvas-first platform that turns designs into versioned, deployable code.",
+        "box": [
+          110,
+          2255,
+          251,
+          104
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "Book of Shapes",
+        "box": [
+          436,
+          2255,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "Book of Shapes\n\nCollection of minimal, generative and customizable SVG patterns.",
+        "box": [
+          433,
+          2255,
+          251,
+          104
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "Beautiful UI",
+        "box": [
+          759,
+          2255,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "Beautiful UI\n\nCrafted copy-paste UI components for chat agents and AI-native interfaces.",
+        "box": [
+          756,
+          2255,
+          251,
+          104
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "All In Frame",
+        "box": [
+          1082,
+          2255,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "All In Frame\n\nFree stock photo collection of authentic disability representation, led by disabl",
+        "box": [
+          1079,
+          2255,
+          251,
+          126
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "vgpu",
+        "box": [
+          113,
+          2669,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "vgpu\n\nWebGPU shader library by Vercel designed for agents.",
+        "box": [
+          110,
+          2669,
+          251,
+          81
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "Sendra",
+        "box": [
+          436,
+          2669,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "Sendra\n\nFigma plugin that turns email designs into responsive, production-ready HTML.",
+        "box": [
+          433,
+          2669,
+          251,
+          104
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "Enter Pro",
+        "box": [
+          759,
+          2669,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "Enter Pro\n\nAI-native platform to build apps, websites, and agents with natural language.",
+        "box": [
+          756,
+          2669,
+          251,
+          104
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "Shotbase",
+        "box": [
+          1082,
+          2669,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "Shotbase\n\nMac app to capture, edit, organize, and share screenshots and screen recordings.",
+        "box": [
+          1079,
+          2669,
+          251,
+          126
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "Splitsense",
+        "box": [
+          113,
+          3083,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "Splitsense\n\nAgentic conversion optimization that generates and tests website variations automat",
+        "box": [
+          110,
+          3083,
+          251,
+          126
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    },
+    {
+      "self": {
+        "tag": "H3",
+        "class": "headline_3",
+        "text": "Berd",
+        "box": [
+          436,
+          3083,
+          245,
+          26
+        ],
+        "font": "KMRMelangeGrotesk, Arial, sans-serif",
+        "size": "22px",
+        "weight": "700",
+        "line": "26.4px",
+        "gap": "normal",
+        "padding": "0px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(10, 5, 35)",
+        "shadow": "none"
+      },
+      "parent": {
+        "tag": "DIV",
+        "class": "resources_text",
+        "text": "Berd\n\nOpen source desktop app for working with AI agents.",
+        "box": [
+          433,
+          3083,
+          251,
+          81
+        ],
+        "font": "Inter, Arial, sans-serif",
+        "size": "16px",
+        "weight": "700",
+        "line": "22.4px",
+        "gap": "10px",
+        "padding": "0px 3px",
+        "radius": "0px",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "color": "rgb(0, 106, 255)",
+        "shadow": "none"
+      }
+    }
+  ],
+  "links": [
+    {
+      "tag": "A",
+      "class": "branding w-inline-block w--current",
+      "text": "",
+      "box": [
+        116,
+        30,
+        170,
+        40
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "0px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "0px",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "none",
+      "href": "https://www.toools.design/"
+    },
+    {
+      "tag": "A",
+      "class": "menu_item w-inline-block w--current",
+      "text": "Home",
+      "box": [
+        838,
+        20,
+        73,
+        60
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "line": "0px",
+      "gap": "normal",
+      "padding": "0px 14px",
+      "radius": "0px",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "none",
+      "href": "https://www.toools.design/"
+    },
+    {
+      "tag": "A",
+      "class": "menu_item w-inline-block",
+      "text": "Newsletter",
+      "box": [
+        911,
+        20,
+        110,
+        60
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "line": "0px",
+      "gap": "normal",
+      "padding": "0px 14px",
+      "radius": "0px",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "none",
+      "href": "https://www.toools.design/newsletter"
+    },
+    {
+      "tag": "A",
+      "class": "menu_item w-inline-block",
+      "text": "Blog",
+      "box": [
+        1020,
+        20,
+        62,
+        60
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "line": "0px",
+      "gap": "normal",
+      "padding": "0px 14px",
+      "radius": "0px",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "none",
+      "href": "https://www.toools.design/blog"
+    },
+    {
+      "tag": "A",
+      "class": "menu_item w-inline-block",
+      "text": "Deals",
+      "box": [
+        1082,
+        20,
+        70,
+        60
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "line": "0px",
+      "gap": "normal",
+      "padding": "0px 14px",
+      "radius": "0px",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "none",
+      "href": "https://www.toools.design/deals"
+    },
+    {
+      "tag": "A",
+      "class": "nav_item nav-search w-inline-block",
+      "text": "",
+      "box": [
+        1188,
+        20,
+        76,
+        60
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "0px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.9) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset, rgba(10, 5, 35, 0.03) 0px 30px 60px 0px",
+      "href": "https://www.toools.design/finder"
+    },
+    {
+      "tag": "A",
+      "class": "keyvisual-dot _01 w-inline-block",
+      "text": "",
+      "box": [
+        730,
+        197,
+        74,
+        74
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "72px",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/673c8a8d4cb04225d5b059a0_keyvisual-logo-01.svg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.33) 2px 2px 4px 0px inset, rgba(10, 5, 35, 0.05) 0px 20px 40px 0px",
+      "href": "https://www.figma.com/?via=toools"
+    },
+    {
+      "tag": "A",
+      "class": "keyvisual-dot _02 w-inline-block",
+      "text": "",
+      "box": [
+        794,
+        180,
+        74,
+        74
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "72px",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/673c8a8d7649189762ed338a_keyvisual-logo-02.svg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.33) 2px 2px 4px 0px inset, rgba(10, 5, 35, 0.05) 0px 20px 40px 0px",
+      "href": "https://try.webflow.com/via-toools"
+    },
+    {
+      "tag": "A",
+      "class": "keyvisual-dot _03 w-inline-block",
+      "text": "",
+      "box": [
+        858,
+        164,
+        74,
+        74
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "72px",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/6a2bb1f886253fcdeb7bc099_icon-claude.svg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.33) 2px 2px 4px 0px inset, rgba(10, 5, 35, 0.05) 0px 20px 40px 0px",
+      "href": "https://claude.ai/?via=toools"
+    },
+    {
+      "tag": "A",
+      "class": "keyvisual-dot _04 w-inline-block",
+      "text": "",
+      "box": [
+        905,
+        175,
+        74,
+        74
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "72px",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/673c8a8d2111b7b80438b56f_keyvisual-logo-04.svg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.33) 2px 2px 4px 0px inset, rgba(10, 5, 35, 0.05) 0px 20px 40px 0px",
+      "href": "https://mobbin.com/?via=toools"
+    },
+    {
+      "tag": "A",
+      "class": "keyvisual-dot _05 w-inline-block",
+      "text": "",
+      "box": [
+        973,
+        201,
+        74,
+        74
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "72px",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/6a2bb40b807242bd1639d4f0_icon-jitter.svg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.33) 2px 2px 4px 0px inset, rgba(10, 5, 35, 0.05) 0px 20px 40px 0px",
+      "href": "https://jitter.video/?via=toools"
+    },
+    {
+      "tag": "A",
+      "class": "keyvisual-dot _06 w-inline-block",
+      "text": "",
+      "box": [
+        1030,
+        230,
+        74,
+        74
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "72px",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/673c8a8d9f40c25d028dd147_keyvisual-logo-06.jpg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.33) 2px 2px 4px 0px inset, rgba(10, 5, 35, 0.05) 0px 20px 40px 0px",
+      "href": "https://framer.link/toools"
+    },
+    {
+      "tag": "A",
+      "class": "keyvisual-dot _07 w-inline-block",
+      "text": "",
+      "box": [
+        1082,
+        245,
+        74,
+        74
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "72px",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/6a2bb3c3d180a66800e577c5_icon-lummi.svg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.33) 2px 2px 4px 0px inset, rgba(10, 5, 35, 0.05) 0px 20px 40px 0px",
+      "href": "https://www.lummi.ai/?via=toools"
+    },
+    {
+      "tag": "A",
+      "class": "keyvisual-dot _08 w-inline-block",
+      "text": "",
+      "box": [
+        1149,
+        219,
+        74,
+        74
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "72px",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/6a2bb6a9abf3beeca919802e_icon-laws-of-ux.svg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.33) 2px 2px 4px 0px inset, rgba(10, 5, 35, 0.05) 0px 20px 40px 0px",
+      "href": "https://lawsofux.com/?via=toools"
+    },
+    {
+      "tag": "A",
+      "class": "keyvisual-dot _09 w-inline-block",
+      "text": "",
+      "box": [
+        1201,
+        204,
+        74,
+        74
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "72px",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/6a2bb40bc759af0572493c8e_icon-recraft.svg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.33) 2px 2px 4px 0px inset, rgba(10, 5, 35, 0.05) 0px 20px 40px 0px",
+      "href": "https://www.recraft.ai/?via=toools"
+    },
+    {
+      "tag": "A",
+      "class": "keyvisual-dot _10 w-inline-block",
+      "text": "",
+      "box": [
+        1261,
+        182,
+        74,
+        74
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "72px",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/6a2bba017493094e48c1e9ce_icon-lovable.webp\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.33) 2px 2px 4px 0px inset, rgba(10, 5, 35, 0.05) 0px 20px 40px 0px",
+      "href": "https://lovablelabs.pxf.io/4aoVMo"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "AI Tools",
+      "box": [
+        90,
+        377,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/ai-design-tools"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "Inspiration",
+      "box": [
+        302,
+        377,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/ui-web-design-inspiration-websites"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "Icons",
+      "box": [
+        514,
+        377,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/free-open-source-icon-libraries"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "Illustrations",
+      "box": [
+        726,
+        377,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/free-open-source-illustrations"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "Mocks + UI Kits",
+      "box": [
+        938,
+        377,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/mockups-ui-kits-and-freebies"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "Stock Photos",
+      "box": [
+        1150,
+        377,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/free-stock-images-videos"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "Learning",
+      "box": [
+        90,
+        487,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/learn-ui-ux-design"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "Community",
+      "box": [
+        302,
+        487,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/design-communities"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "Blogs & Mags",
+      "box": [
+        514,
+        487,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/best-design-blogs-and-magazines"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "Podcasts",
+      "box": [
+        726,
+        487,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/best-design-podcasts"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "Books",
+      "box": [
+        938,
+        487,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/books-for-designers"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "Productivity",
+      "box": [
+        1150,
+        487,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/productivity-tools-for-design-and-poduct-teams"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "Design Tools",
+      "box": [
+        90,
+        597,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/best-design-tools"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "UX Tools",
+      "box": [
+        302,
+        597,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/best-ux-tools"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "Color Tools",
+      "box": [
+        514,
+        597,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/best-color-inspiration-tools"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "Typography",
+      "box": [
+        726,
+        597,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/font-library-and-inspiration"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "Marketing",
+      "box": [
+        938,
+        597,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/marketing-tools"
+    },
+    {
+      "tag": "A",
+      "class": "categories_link w-inline-block",
+      "text": "Web Builders",
+      "box": [
+        1150,
+        597,
+        200,
+        96
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "10px",
+      "padding": "0px 12px",
+      "radius": "24px",
+      "background": "rgba(255, 255, 255, 0.8) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset",
+      "href": "https://www.toools.design/best-no-code-website-builders"
+    },
+    {
+      "tag": "A",
+      "class": "icons-by-link-light w-inline-block",
+      "text": "Icons by ",
+      "box": [
+        1142,
+        713,
+        208,
+        53
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "32px",
+      "gap": "0px",
+      "padding": "0px 6px 0px 0px",
+      "radius": "0px",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(255, 255, 255, 0.6)",
+      "shadow": "none",
+      "href": "https://www.uicons.com/"
+    },
+    {
+      "tag": "A",
+      "class": "card_global featured-card w-inline-block",
+      "text": "AI Product Design Certification\n\nA new AI certification from Designlab where you learn from pra",
+      "box": [
+        90,
+        880,
+        399,
+        395
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "23px",
+      "padding": "20px",
+      "radius": "28px",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(rgba(255, 255, 255, 0.7), rgba(251, 250, 255, 0.7)) repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px",
+      "href": "https://designlab.pxf.io/jRaVkP"
+    },
+    {
+      "tag": "A",
+      "class": "card_global featured-card w-inline-block",
+      "text": "Readymag\n\nCreate all kinds of websites with flexibility and complete creative freedom.",
+      "box": [
+        521,
+        880,
+        399,
+        395
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "23px",
+      "padding": "20px",
+      "radius": "28px",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(rgba(255, 255, 255, 0.7), rgba(251, 250, 255, 0.7)) repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px",
+      "href": "https://readymag.com/?utm_source=toools&utm_medium=partnership_website&utm_campaign=main"
+    },
+    {
+      "tag": "A",
+      "class": "card_global featured-card w-inline-block",
+      "text": "Mobbin MCP\n\nMobbin MCP connects your AI agents to 600,000+ real product screens.",
+      "box": [
+        951,
+        880,
+        399,
+        395
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "23px",
+      "padding": "20px",
+      "radius": "28px",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(rgba(255, 255, 255, 0.7), rgba(251, 250, 255, 0.7)) repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0) 0px 0px 0px 0px, rgba(255, 255, 255, 0.66) 1.5px 1.5px 1.5px 0px inset, rgba(10, 5, 35, 0.03) 0px 20px 40px 0px",
+      "href": "https://mobbin.com/mcp?via=toools"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69121485b4b3f85b96e3cc19_brain-ai.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691215396e6cc06bef3a16f9_lightning.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691215511ac28672db6512b6_star.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691215297487d4c21fef8824_stylograph-straight.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691215456243edcf4126cd5e_desktop-mobile.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69121518fda553d9ab4c515b_camera.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6912140217630475194e7ec9_education.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691213e72f4246554136939e_community.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6912150a8252230404702089_newspaper-folded.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691214e15c27e4843dc8cb7a_microphone.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691214ee3395c80874da5f0c_book.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69121b5077015b8ddfddfe95_kanban-board.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691214d52478b61fd68fa4f0_bounding-box.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691214aa6aed409124901ba0_algorithm.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6912149f241ff0e446d98684_swatches.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6912155ed9b2d2ba7140d869_text.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69b29e19627f64f7edb80594_megaphone.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691214901662725b01b9908a_browser-pointer.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "TOOOLS.design",
+      "src": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/699b141b2ecbd0ecfba86e8c_toools-design-logo-dark.svg",
+      "class": "img_toools-design-logo",
+      "parent": "branding w-inline-block w--current"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69121485b4b3f85b96e3cc19_brain-ai.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691215396e6cc06bef3a16f9_lightning.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691215511ac28672db6512b6_star.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691215297487d4c21fef8824_stylograph-straight.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691215456243edcf4126cd5e_desktop-mobile.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69121518fda553d9ab4c515b_camera.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6912140217630475194e7ec9_education.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691213e72f4246554136939e_community.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6912150a8252230404702089_newspaper-folded.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691214e15c27e4843dc8cb7a_microphone.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691214ee3395c80874da5f0c_book.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69121b5077015b8ddfddfe95_kanban-board.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691214d52478b61fd68fa4f0_bounding-box.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691214aa6aed409124901ba0_algorithm.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6912149f241ff0e446d98684_swatches.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6912155ed9b2d2ba7140d869_text.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69b29e19627f64f7edb80594_megaphone.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691214901662725b01b9908a_browser-pointer.svg",
+      "class": "img_categories-icon",
+      "parent": "categories_link w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a7df979a29a8d282393119e_ai-product-design-course-designlab-a.gif",
+      "class": "img_featured",
+      "parent": "featured_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a85732e62373e8fdd649f78_readymag-website-builder.gif",
+      "class": "img_featured",
+      "parent": "featured_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a38fe7685c2bc351f24dc21_mobbin-mcp-connectors.webp",
+      "class": "img_featured",
+      "parent": "featured_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69a578f5a306fda3da189591_interaction-design-foundation-learn-uxdesign-courses.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a39108f22b1cceff92029ea_mobbin-mcp.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a390ebb1ed34756ac9dc1b0_coursera-ui-ux-design-courses.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6674905415b9e9b7a879c8ab_designlab-ux-courses.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6524f96988a2cb535349655e_webflow.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/64db3cb22868255d11d72f28_framer.jpg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/672c87800ab23c6f289dc7dd_uxcel-learn-ux-design-courses.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/660c2871697203da0f1b8bef_saasframe-bw.gif",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a969cf9dbb23f66362944de_6a969bb4f8bdef82d98006e2_zoah-design-to-code-canvas-platform.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a969cf9dbb23f66362944d8_6a969bb456ce257128229068_book-of-shapes-generative-svg-patterns.gif",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a969ce5f3fb1e1cdd86de07_6a969bb1e51be34fe6378924_beautiful-ui-components-for-ai-chat-interfaces.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a969ce5f3fb1e1cdd86ddff_6a969bae5bb90a49def19264_all-in-frame-free-inclusive-disability-stock-photos.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a969ce5f3fb1e1cdd86de04_6a969bae68a4f0505f35e8a1_vgpu-webgpu-library-for-agents.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a969cc98f0bec7b400ac528_6a969baef8bdef82d98003da_sendra-figma-to-html-email-plugin.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a969cc98f0bec7b400ac520_6a969baeb358092fbc40ba57_enter-pro-ai-app-website-agent-builder.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a969cc98f0bec7b400ac525_6a969ba291feefafaa6ef48e_shotbase-mac-screenshot-screen-recording-app.webp",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a969ca66d570cc9cf2616b0_6a969ba2cee89764fbbfca10_splitsense-ai-conversion-optimization-ab-testing.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a8d597f90d81eafde2b0318_6a8d588b93e0ab9f2db41fe6_berd-block-open-source-ai-agent-desktop-app.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a8d597f90d81eafde2b0315_6a8d588b6deaf883c54a1162_morphicons-svg-icon-morphing-animation-library.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a8d597f90d81eafde2b0312_6a8d588c42c6945e98ef7ce0_watermelon-ui-react-components-dashboards-blocks.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a8d597f90d81eafde2b030d_6a8d588c1d304528f927ec8c_tegaki-animated-handwriting-from-fonts.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a8d595caba1e9be0aa41c28_6a8d5893eb72f2e3e1930b4d_balsa-ui-agent-native-component-system-vue-react.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a8d595caba1e9be0aa41c24_6a8d5893b6f5e1c6bbec25d9_ip-as-logo-free-mascot-logo-library.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a8d595caba1e9be0aa41c2b_6a8d5893f004847a12f46fce_vendo-embedded-ai-agent-product-customization.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69ae94f51061dd0c047004a8_google-gemini-nano-banana.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/698e25c70a7a7b136f729077_cursor-ai-code-platform.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69ae86aa75e411a79e253e05_figma-ai.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/670fa64ef970ac4eb109f976_webflow-ai-features.webp",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6660403095ca29e654b22ec3_framer-ai-features.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/647ef632dfcff166b337926b_recraft.gif",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691b18b3571d36d19142fd24_chatgpt-conversational-ai.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/686524b3517396c273cd8dc7_lovable-vibe-coding-apps-websites.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/63da37784207259ae5332fb7_midjourney.gif",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691b1996e140f0f1eddd1712_claude-conversational-ai.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6654a6d3ae3e7daa575c2424_krea.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/642bf0f77c06361c334260b9_spline-design-ai.jpg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69ae84b2b235ac1ad3a4a925_adobe-firefly-generative-ai.jpg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6435236315d33e570b259f92_runway.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/698e25bc78288832434414e7_v0-vibe-coding-tool-by-vercel.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/698e25b6387c035197d89fba_bolt-vibe-coding-platform.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69a53c78b9f2cc6576220557_banani-ai-ui-design-generator.webp",
+      "class": "img_resource",
+      "parent": "slim-resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/678d35e407aa363b4cd95071_kittl-ai-tools.svg",
+      "class": "img_resource",
+      "parent": "slim-resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/686524b3517396c273cd8dc7_lovable-vibe-coding-apps-websites.svg",
+      "class": "img_resource",
+      "parent": "slim-resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/672c8b3ca559c45b7037adf4_adcreative-ai-best-advertising-tool.svg",
+      "class": "img_resource",
+      "parent": "slim-resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6914625bd3afc65128282d67_gamma-ai-presentations.svg",
+      "class": "img_resource",
+      "parent": "slim-resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6655cf7d94f65fff919124a8_fliki-ai-videos.svg",
+      "class": "img_resource",
+      "parent": "slim-resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6662e8f9ec58cddd3d44fcff_dorik-ai-website-generator.svg",
+      "class": "img_resource",
+      "parent": "slim-resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/68ecb78dab0a9e25ee5ed065_holo-marketing-content-ai-generation.webp",
+      "class": "img_resource",
+      "parent": "slim-resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69345f6c0dd086d5fb823708_openart-ai-art-generator-and-editor.svg",
+      "class": "img_resource",
+      "parent": "slim-resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69a4a86e9708efc279d9f06c_descript-ai-video-editor.svg",
+      "class": "img_resource",
+      "parent": "slim-resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6419a8603e72984af76cd290_chronicle.svg",
+      "class": "img_resource",
+      "parent": "slim-resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/678cd7ab0827ce6d17abe72e_fabric-bookmarking-notetaking-tool.svg",
+      "class": "img_resource",
+      "parent": "slim-resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6836b691d99cb6abd6cc9211_deal-img-ixdf.webp",
+      "class": "img_featured",
+      "parent": "featured_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/67444a1a40afeca291ae01c8_coupon-code-stamped-half-circle-left.png",
+      "class": "coupon-code-half-circle-img",
+      "parent": "div-block-24"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/67444a1ae514faeaba7240d1_coupon-code-stamped-half-circle-right.png",
+      "class": "coupon-code-half-circle-img",
+      "parent": "div-block-24"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/67f133e41d407332fda87569_deal-img-framer.webp",
+      "class": "img_featured",
+      "parent": "featured_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/67444a1a40afeca291ae01c8_coupon-code-stamped-half-circle-left.png",
+      "class": "coupon-code-half-circle-img",
+      "parent": "div-block-24"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/67444a1ae514faeaba7240d1_coupon-code-stamped-half-circle-right.png",
+      "class": "coupon-code-half-circle-img",
+      "parent": "div-block-24"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6811de1ba06c10ee56a7a740_uxcel-ux-design-courses-bootcamps.webp",
+      "class": "img_featured",
+      "parent": "featured_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/67444a1a40afeca291ae01c8_coupon-code-stamped-half-circle-left.png",
+      "class": "coupon-code-half-circle-img",
+      "parent": "div-block-24"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/67444a1ae514faeaba7240d1_coupon-code-stamped-half-circle-right.png",
+      "class": "coupon-code-half-circle-img",
+      "parent": "div-block-24"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6836b6e0ce2485386970937c_deal-img-saasframe.webp",
+      "class": "img_featured",
+      "parent": "featured_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/67444a1a40afeca291ae01c8_coupon-code-stamped-half-circle-left.png",
+      "class": "coupon-code-half-circle-img",
+      "parent": "div-block-24"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/67444a1ae514faeaba7240d1_coupon-code-stamped-half-circle-right.png",
+      "class": "coupon-code-half-circle-img",
+      "parent": "div-block-24"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6836b73c1f5741dd1e15ca99_deal-img-live-surface.webp",
+      "class": "img_featured",
+      "parent": "featured_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/67444a1a40afeca291ae01c8_coupon-code-stamped-half-circle-left.png",
+      "class": "coupon-code-half-circle-img",
+      "parent": "div-block-24"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/67444a1ae514faeaba7240d1_coupon-code-stamped-half-circle-right.png",
+      "class": "coupon-code-half-circle-img",
+      "parent": "div-block-24"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/691c70fa7e8a2f6eafc57bc9_deal-img-framify.webp",
+      "class": "img_featured",
+      "parent": "featured_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/67444a1a40afeca291ae01c8_coupon-code-stamped-half-circle-left.png",
+      "class": "coupon-code-half-circle-img",
+      "parent": "div-block-24"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/67444a1ae514faeaba7240d1_coupon-code-stamped-half-circle-right.png",
+      "class": "coupon-code-half-circle-img",
+      "parent": "div-block-24"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6836b784d97eea1919b44265_deal-img-squarespace.webp",
+      "class": "img_featured",
+      "parent": "featured_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/67444a1a40afeca291ae01c8_coupon-code-stamped-half-circle-left.png",
+      "class": "coupon-code-half-circle-img",
+      "parent": "div-block-24"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/67444a1ae514faeaba7240d1_coupon-code-stamped-half-circle-right.png",
+      "class": "coupon-code-half-circle-img",
+      "parent": "div-block-24"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/5f074812abed4050b51a173a_start-ux-design.gif",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6741ee93dee4595f114bb091_shapeofai.jpg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/5f84bc7b415f1148a28de880_design-principles.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/636e1c6def41c92663fe8ea1_mobbin.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6018765000c4c25e817e53b5_laws-of-ux.gif",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6912e3379ebecb2bb5bbbd1f_logo-system-inspiration-library.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/64d1fe87154f466480d9d767_design-spells.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/60a3a04bdfb40d6c77c388b8_the-psychology-of-design.jpg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/65f94febff5661997c384581_lummi.svg",
+      "class": "img_resource",
+      "parent": "resources_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a4a20eed56fec789151d894_best-mcp-connectors-for-designers-s.webp",
+      "class": "img_resource",
+      "parent": "blog_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/668eb6adecca65c8750f6753_best-ai-online-courses-for-ui-ux-designers-boost-your-career-thumb-small.webp",
+      "class": "img_resource",
+      "parent": "blog_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a03bec196d35f05b3e1d952_best-ai-tools-ui-ux-designers-2026-thumb-small.webp",
+      "class": "img_resource",
+      "parent": "blog_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69a6aa64707211f4bc458e5b_ixdf-interaction-design-foundation-review-s.webp",
+      "class": "img_resource",
+      "parent": "blog_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a03bda20db4a161b52d2c54_ai-tools-for-graphic-design-thumb-small.webp",
+      "class": "img_resource",
+      "parent": "blog_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a03bd4fcd84d8adf962bb5d_best-ux-design-courses-s.webp",
+      "class": "img_resource",
+      "parent": "blog_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a03bde79d741a88dd134c09_top-10-vibe-coding-tools-designers-will-love-thumb-small.webp",
+      "class": "img_resource",
+      "parent": "blog_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/667431adfa5f12f0faf344cb_ultimate-list-100-best-inspiration-websites-for-designers-thumb-small.webp",
+      "class": "img_resource",
+      "parent": "blog_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69a60183deb54540658c8c1d_best-figma-plugins-for-designers-s.webp",
+      "class": "img_resource",
+      "parent": "blog_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/695cc02a3c83756d6e0868f6_gifts-for-designers-thumb-small.webp",
+      "class": "img_resource",
+      "parent": "blog_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69d74fb628b460d02bd5af44_best-ai-website-generator-s.jpg",
+      "class": "img_resource",
+      "parent": "blog_img-container"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69cb98882f29095bf247f070_icon-ui-designers.svg",
+      "class": "designer-icon",
+      "parent": "card_global designer-card w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69cb98a81518c4384dbb46fc_icon-ux-designers.svg",
+      "class": "designer-icon",
+      "parent": "card_global designer-card w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69cb988f5b2cab1a4a5e8f6c_icon-product-designers.svg",
+      "class": "designer-icon",
+      "parent": "card_global designer-card w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69cb98a148308217c3684e8f_icon-web-designers.svg",
+      "class": "designer-icon",
+      "parent": "card_global designer-card w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69cb989841bc2867fc469f91_icon-graphic-designers.svg",
+      "class": "designer-icon",
+      "parent": "card_global designer-card w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69cb988213bd91a9616fd07a_icon-brand-designers.svg",
+      "class": "designer-icon",
+      "parent": "card_global designer-card w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69cb987adda1bb69d79fad90_icon-motion-designers.svg",
+      "class": "designer-icon",
+      "parent": "card_global designer-card w-inline-block"
+    },
+    {
+      "alt": "",
+      "src": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/69cb9872943343249882a6f2_icon-marketing-designers.svg",
+      "class": "designer-icon",
+      "parent": "card_global designer-card w-inline-block"
+    },
+    {
+      "alt": "TOOOLS.design",
+      "src": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/699b141ba738d35f707801d2_toools-design-logo-light.svg",
+      "class": "logo-footer-img",
+      "parent": "logo-footer w-inline-block w--current"
+    }
+  ],
+  "backgrounds": [
+    {
+      "tag": "DIV",
+      "class": "menu_item-active",
+      "text": "",
+      "box": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "line": "0px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "0px",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(0, 105, 255, 0.5), rgba(90, 52, 255, 0.5)) repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "none"
+    },
+    {
+      "tag": "DIV",
+      "class": "menu_item-active",
+      "text": "",
+      "box": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "line": "0px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "0px",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(0, 105, 255, 0.5), rgba(90, 52, 255, 0.5)) repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "none"
+    },
+    {
+      "tag": "DIV",
+      "class": "menu_item-active",
+      "text": "",
+      "box": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "line": "0px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "0px",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(0, 105, 255, 0.5), rgba(90, 52, 255, 0.5)) repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "none"
+    },
+    {
+      "tag": "DIV",
+      "class": "menu_item-active",
+      "text": "",
+      "box": [
+        852,
+        78,
+        45,
+        2
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "line": "0px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "0px",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(0, 105, 255, 0.5), rgba(90, 52, 255, 0.5)) repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "none"
+    },
+    {
+      "tag": "DIV",
+      "class": "menu_item-active",
+      "text": "",
+      "box": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "line": "0px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "0px",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(0, 105, 255, 0.5), rgba(90, 52, 255, 0.5)) repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "none"
+    },
+    {
+      "tag": "DIV",
+      "class": "menu_item-active",
+      "text": "",
+      "box": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "line": "0px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "0px",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(0, 105, 255, 0.5), rgba(90, 52, 255, 0.5)) repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "none"
+    },
+    {
+      "tag": "DIV",
+      "class": "menu_item-active",
+      "text": "",
+      "box": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "line": "0px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "0px",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(0, 105, 255, 0.5), rgba(90, 52, 255, 0.5)) repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgba(10, 5, 35, 0.7)",
+      "shadow": "none"
+    },
+    {
+      "tag": "DIV",
+      "class": "featured_logo",
+      "text": "",
+      "box": [
+        389,
+        1072,
+        60,
+        60
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "60px",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a7df5c45121ae9788dc3bea_logo-designlab.svg\") repeat scroll 50% 50% / cover padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0.03) 0px 2px 20px 0px, rgba(171, 170, 178, 0.2) 0px 0px 0px 1px"
+    },
+    {
+      "tag": "DIV",
+      "class": "featured_logo",
+      "text": "",
+      "box": [
+        819,
+        1072,
+        60,
+        60
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "60px",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a857854796820f3bb34f62e_logo-readymag.svg\") repeat scroll 50% 50% / cover padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0.03) 0px 2px 20px 0px, rgba(171, 170, 178, 0.2) 0px 0px 0px 1px"
+    },
+    {
+      "tag": "DIV",
+      "class": "featured_logo",
+      "text": "",
+      "box": [
+        1250,
+        1072,
+        60,
+        60
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "60px",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a38fd1bfbf903a6ea1b8fae_icon-mobbin.svg\") repeat scroll 50% 50% / cover padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0.03) 0px 2px 20px 0px, rgba(171, 170, 178, 0.2) 0px 0px 0px 1px"
+    },
+    {
+      "tag": "DIV",
+      "class": "featured_logo",
+      "text": "",
+      "box": [
+        389,
+        5896,
+        60,
+        60
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "60px",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/65256fac4ea511309a34adc5_deal-icon-ixdf.svg\") repeat scroll 50% 50% / cover padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "rgba(10, 5, 35, 0.03) 0px 2px 20px 0px, rgba(171, 170, 178, 0.2) 0px 0px 0px 1px"
+    },
+    {
+      "tag": "DIV",
+      "class": "div-block-23",
+      "text": "",
+      "box": [
+        90,
+        6163,
+        399,
+        20
+      ],
+      "font": "Inter, Arial, sans-serif",
+      "size": "16px",
+      "weight": "700",
+      "line": "22.4px",
+      "gap": "normal",
+      "padding": "0px",
+      "radius": "0px",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/674449a67bd2b8990a43a630_coupon-code-fringed-spike.png\") repeat-x scroll 50% 0px / 20px auto padding-box border-box",
+      "color": "rgb(0, 106, 255)",
+      "shadow": "none"
+    }
+  ]
+}

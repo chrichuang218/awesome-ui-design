@@ -1,0 +1,26 @@
+<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer ring with gradient -->
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="innerGradient" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F97316"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Main circle -->
+  <circle cx="24" cy="24" r="22" stroke="url(#logoGradient)" stroke-width="3" fill="none"/>
+
+  <!-- UI layers - representing design layers -->
+  <rect x="14" y="14" width="12" height="12" rx="2" fill="url(#logoGradient)" opacity="0.9"/>
+  <rect x="18" y="18" width="12" height="12" rx="2" fill="url(#innerGradient)" opacity="0.8"/>
+  <rect x="22" y="22" width="12" height="12" rx="2" fill="url(#logoGradient)" opacity="0.9"/>
+
+  <!-- Sparkle/AI accent -->
+  <circle cx="36" cy="12" r="2" fill="#F97316"/>
+  <circle cx="12" cy="36" r="1.5" fill="#3B82F6"/>
+</svg>

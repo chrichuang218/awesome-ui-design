@@ -1,0 +1,520 @@
+{
+  "capturedAt": "2026-09-06T15:44:20.911Z",
+  "items": [
+    {
+      "id": "r1",
+      "error": "Different host after redirect",
+      "redirect": "https://recent.design/?ref=godly"
+    },
+    {
+      "id": "r2",
+      "error": "No usable public icon"
+    },
+    {
+      "id": "r3",
+      "file": "resource-icons/r3.png",
+      "url": "https://www.landingfolio.com/favicon.ico",
+      "kind": "website-icon",
+      "bytes": 9083,
+      "sha256": "6b6c1ca35247358c0b5e17f9dce21f3abce5a4a5d6598803ac920135241ec37c"
+    },
+    {
+      "id": "r4",
+      "file": "resource-icons/r4.png",
+      "url": "https://www.awwwards.com/apple-touch-icon.png",
+      "kind": "website-icon",
+      "bytes": 4884,
+      "sha256": "b8e780720d647d17d98dad671719658116b4353a13e4e1b5c741b3561348fd6f"
+    },
+    {
+      "id": "r5",
+      "file": "resource-icons/r5.ico",
+      "url": "https://land-book.com/favicon.ico",
+      "kind": "website-icon",
+      "bytes": 15406,
+      "sha256": "4ce4b4608442e39aa061b402ea299c40a66617848084d743a4a82781e87539fe"
+    },
+    {
+      "id": "r6",
+      "file": "resource-icons/r6.png",
+      "url": "https://saaslandingpage.com/wp-content/themes/saaslandingpage/dist/images/apple-touch-icon.png",
+      "kind": "website-icon",
+      "bytes": 8180,
+      "sha256": "0939c66961c4e9e59e6a520a061e77953e1ef6351360cc3c205329beb8853f7c"
+    },
+    {
+      "id": "r7",
+      "file": "resource-icons/r7.png",
+      "url": "https://onepagelove.com/wp-content/themes/onepagelove/frontend/img/favicon/favicon-32x32.png",
+      "kind": "website-icon",
+      "bytes": 1511,
+      "sha256": "15935df1c5b4bc1fa9693ab4dd98b7982f7b2b3612dfa693011a5dc81f68dde4"
+    },
+    {
+      "id": "r8",
+      "file": "resource-icons/r8.svg",
+      "url": "https://framerusercontent.com/images/oPS7zaP2iinQmw4du221pyfo.svg",
+      "kind": "website-icon",
+      "bytes": 4431,
+      "sha256": "1176627280914da3b851bdeed82bd0eb8b149db357a900c5e8e7023f30918336"
+    },
+    {
+      "id": "r9",
+      "file": "resource-icons/r9.png",
+      "url": "https://framerusercontent.com/images/ZBEqvgXlQd5lOqAjCoYCLvxr0E.png",
+      "kind": "website-icon",
+      "bytes": 1353,
+      "sha256": "36d2b0d35983675b15f7ddb3ef8111d27f5cc2c56b9bc14231610fe99f27b2f9"
+    },
+    {
+      "id": "r10",
+      "file": "resource-icons/r10.png",
+      "url": "https://detail.design/favicon.ico?favicon.3fgmecbgqgesf.ico",
+      "kind": "website-icon",
+      "bytes": 1561,
+      "sha256": "90d604e0caf875274a0fece14821e8f1edfdca271492430712a433820bf40f87"
+    },
+    {
+      "id": "r11",
+      "file": "resource-icons/r11.png",
+      "url": "https://bestwebsite.gallery/assets/images/bitmap/favicon/apple-touch-icon-57x57.png",
+      "kind": "website-icon",
+      "bytes": 1866,
+      "sha256": "46795ac64a93ca7819a67098c67f228e4a83e03313e7063c15a59ea7ea7844d5"
+    },
+    {
+      "id": "r12",
+      "file": "resource-icons/r12.png",
+      "url": "https://www.landing.love/img/favicon.png",
+      "kind": "website-icon",
+      "bytes": 7909,
+      "sha256": "88137b1c12d2379bf277e489198d3739a397e63487074592f7404eba5001f8ce"
+    },
+    {
+      "id": "r13",
+      "error": "No usable public icon"
+    },
+    {
+      "id": "r14",
+      "file": "resource-icons/r14.svg",
+      "url": "https://cdn.prod.website-files.com/65676438ff1c480b81cf0085/65d6f3f1b5990f5d4a9d1f09_favicon-navbar.svg",
+      "kind": "website-icon",
+      "bytes": 2796,
+      "sha256": "9b372e81d0f6ead3c53b3cb74363a98627fcb40afdbd9a8383f822390b1ced77"
+    },
+    {
+      "id": "r15",
+      "file": "resource-icons/r15.png",
+      "url": "https://framerusercontent.com/images/wvsg35aPOjBoT6Jli6VVqeJ9Qs.png",
+      "kind": "website-icon",
+      "bytes": 1217,
+      "sha256": "ab65e5b464a3374dfeb982fca068a5d7ef6aaa93e2d90668116c8df70c8aaa7c"
+    },
+    {
+      "id": "r16",
+      "file": "resource-icons/r16.jpg",
+      "url": "https://www.spottedinprod.com/apple-icon.jpg?apple-icon.a92d0c31.jpg",
+      "kind": "website-icon",
+      "bytes": 54968,
+      "sha256": "ff66622546cee6f3eb11b8e443368d51b90907f75d1ab69fe3d962fac2d73ad7"
+    },
+    {
+      "id": "r17",
+      "error": "No usable public icon"
+    },
+    {
+      "id": "r18",
+      "file": "resource-icons/r18.png",
+      "url": "https://reeoo.com/assets/reeoo-logo-180.png",
+      "kind": "website-icon",
+      "bytes": 14193,
+      "sha256": "9023b57ac1d51500c831faf62451f0a36de01abb3ebf6e5da4bb4447baf87f15"
+    },
+    {
+      "id": "r19",
+      "file": "resource-icons/r19.svg",
+      "url": "https://www.stylekit.top/icon.svg",
+      "kind": "website-icon",
+      "bytes": 1109,
+      "sha256": "68a47ea60440e9c9a55e852ba8fe38573a76d9a80e64260bd8effcc01f358a9d"
+    },
+    {
+      "id": "r20",
+      "file": "resource-icons/r20.svg",
+      "url": "https://www.designprompts.dev/favicon.svg",
+      "kind": "website-icon",
+      "bytes": 270,
+      "sha256": "5da64dd948dc04ea4fc8182d997a9ecb6265284dd0cf8f724f14218c25b7aefe"
+    },
+    {
+      "id": "r21",
+      "file": "resource-icons/r21.ico",
+      "url": "https://www.uiprompt.site/favicon.ico",
+      "kind": "website-icon",
+      "bytes": 2492,
+      "sha256": "5b966d9d9424b052010cdc356bae5fe7bcc3a439910ab17c0f35fa76733fdecc"
+    },
+    {
+      "id": "r22",
+      "file": "resource-icons/r22.ico",
+      "url": "https://uiprompt.art/favicon.ico",
+      "kind": "website-icon",
+      "bytes": 4286,
+      "sha256": "659319612998da5a58d8c9aeb4003eb8e615ba3be945e69c0db1240e3ada6fd7"
+    },
+    {
+      "id": "r23",
+      "file": "resource-icons/r23.svg",
+      "url": "https://getdesign.md/favicon.svg?v=2",
+      "kind": "website-icon",
+      "bytes": 324,
+      "sha256": "c984fba4825b87e197fdda1883757c2eaa8b60bd4f3d25edbcc7f76b65389731"
+    },
+    {
+      "id": "r24",
+      "file": "resource-icons/r24.svg",
+      "url": "https://www.uupm.cc/icon.svg",
+      "kind": "website-icon",
+      "bytes": 1150,
+      "sha256": "21a76791a1aa0afbf3fba83664179a35fd7d26710ddc9e7602ace3e4a4ff98f9"
+    },
+    {
+      "id": "r25",
+      "file": "resource-icons/r25.svg",
+      "url": "https://impeccable.style/favicon.svg",
+      "kind": "website-icon",
+      "bytes": 501,
+      "sha256": "dd7cc348f73d7294c0f16952f0cc8b6ba7f91b1146ca86bc11b01d1ef35cd8d4"
+    },
+    {
+      "id": "r26",
+      "file": "resource-icons/r26.png",
+      "url": "https://www.gstatic.com/labs-code/stitch/favicon-16x16.png",
+      "kind": "website-icon",
+      "bytes": 488,
+      "sha256": "727b02157f85075b6ee321c47d6e5f620f3cd64330b0dc072c51003103c38125"
+    },
+    {
+      "id": "r27",
+      "file": "resource-icons/r27.svg",
+      "url": "https://variant.com/favicon-light.svg",
+      "kind": "website-icon",
+      "bytes": 3806,
+      "sha256": "acc575785c92bb62e163f0c33cca1487f299ccfdcc752c10cd2713884286b67e"
+    },
+    {
+      "id": "r28",
+      "file": "resource-icons/r28.png",
+      "url": "https://jitter.video/icons/icon-48x48.png?v=21d28f330028d89e8d5b84bbf64c7c6a",
+      "kind": "website-icon",
+      "bytes": 1251,
+      "sha256": "36a46f4a2a6ad54aeaeda4eb5429dba65f59a6730f69a373f0f63d18a4216984"
+    },
+    {
+      "id": "r29",
+      "file": "resource-icons/r29.svg",
+      "url": "https://quiver.ai/favicon.svg",
+      "kind": "website-icon",
+      "bytes": 535,
+      "sha256": "d142b7c4a27e7c66e9c30bb54d34617d3123ded148c3e97a87017dd1e114f408"
+    },
+    {
+      "id": "r30",
+      "file": "resource-icons/r30.ico",
+      "url": "https://lucide.dev/favicon.ico",
+      "kind": "website-icon",
+      "bytes": 15086,
+      "sha256": "0691b4b65cef0139dd236fece0fa36e5b2bd6ce5ff120aeb07dafdf51f41805c"
+    },
+    {
+      "id": "r31",
+      "file": "resource-icons/r31.png",
+      "url": "https://reactbits.dev/apple-touch-icon.png",
+      "kind": "website-icon",
+      "bytes": 11156,
+      "sha256": "e91be58a66a9e28c7c5ffa243a45489f11592e14edbdbaf7ce9f3874061cf26a"
+    },
+    {
+      "id": "r32",
+      "file": "resource-icons/r32.ico",
+      "url": "https://vue-bits.dev/favicon.ico",
+      "kind": "website-icon",
+      "bytes": 15406,
+      "sha256": "229f194dd83cf43820cf71c66e663871ea11e1ea989c7f07e14093356129f78a"
+    },
+    {
+      "id": "r33",
+      "file": "resource-icons/r33.png",
+      "url": "https://coolors.co/assets/img/favicon.png",
+      "kind": "website-icon",
+      "bytes": 4956,
+      "sha256": "9b8fb8687f8bda2656be84af28b80a67a80e45d930300eb371f12d0c66a264ff"
+    },
+    {
+      "id": "r34",
+      "file": "resource-icons/r34.svg",
+      "url": "https://colorhunt.co/img/colorhunt-favicon.svg?2",
+      "kind": "website-icon",
+      "bytes": 3244,
+      "sha256": "72765fd8a2585ed4cfae83fc79cfd1ec6edb37ca6e12a666e550f6ae38c29212"
+    },
+    {
+      "id": "r35",
+      "file": "resource-icons/r35.svg",
+      "url": "https://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/favicon.svg",
+      "kind": "website-icon",
+      "bytes": 519,
+      "sha256": "ac355426608b4ddc5b46f8449f4d37e2c788bb0918b8f797ea6d620838107172"
+    },
+    {
+      "id": "r36",
+      "file": "resource-icons/r36.svg",
+      "url": "https://img.alicdn.com/imgextra/i4/O1CN01Z5paLz1O0zuCC7osS_!!6000000001644-55-tps-83-82.svg",
+      "kind": "website-icon",
+      "bytes": 5688,
+      "sha256": "0972f73e5b58b01255d70ab0f408e25befb7ec5de429f55cb3a4d979468992fb"
+    },
+    {
+      "id": "r37",
+      "file": "resource-icons/r37.ico",
+      "url": "https://hugeicons.com/favicon.ico?favicon.b96070e4.ico",
+      "kind": "website-icon",
+      "bytes": 15406,
+      "sha256": "432b7dedcaf9eabdcdcc598e5f1c27111e9bf9c10e437aaf699c529cae371777"
+    },
+    {
+      "id": "r38",
+      "file": "resource-icons/r38.svg",
+      "url": "http://component.gallery/favicon.svg",
+      "kind": "website-icon",
+      "bytes": 7024,
+      "sha256": "93c51f149322cc929e596156cb555a1ba7c1ce74f0694546c44eaad669247611"
+    },
+    {
+      "id": "r39",
+      "error": "No usable public icon"
+    },
+    {
+      "id": "r40",
+      "file": "resource-icons/r40.svg",
+      "url": "https://radarlaboratory.com/assets/favicon.svg",
+      "kind": "website-icon",
+      "bytes": 339,
+      "sha256": "c415dac41794a1e6ee3640dcfa785b2855da7bcb0eb2f1e65870c3ce6bb05c01"
+    },
+    {
+      "id": "r41",
+      "file": "resource-icons/r41.png",
+      "url": "https://good-fella.com/favicon.ico?favicon.f965c59a.ico",
+      "kind": "website-icon",
+      "bytes": 316,
+      "sha256": "c5db2c032357e1ea5ce3e4cd07b176ae2f5ca36145d6e1b68a6dd8aa8cbd4c86"
+    },
+    {
+      "id": "r42",
+      "file": "resource-icons/r42.svg",
+      "url": "https://srg.ava-digital.site/favicon.svg",
+      "kind": "website-icon",
+      "bytes": 1607,
+      "sha256": "520fce7fbdc860f56b0c42eaa5f251fb288d73be6e91013b1f6f72496c97fb34"
+    },
+    {
+      "id": "r43",
+      "file": "resource-icons/r43.png",
+      "url": "https://nfinitepaper.com/apple-touch-icon.png",
+      "kind": "website-icon",
+      "bytes": 4225,
+      "sha256": "64468910bcc9f979251bac44ecc5fcae04b3b7d9c73f5866f41be329cf08e1e2"
+    },
+    {
+      "id": "r44",
+      "file": "resource-icons/r44.ico",
+      "url": "https://follow.art/favicon.ico",
+      "kind": "website-icon",
+      "bytes": 15086,
+      "sha256": "34dc8c1311658a77f1de2e260e00709c6e1f4f6755a1b5ef1accc1302297cb2e"
+    },
+    {
+      "id": "r45",
+      "file": "resource-icons/r45.png",
+      "url": "https://maxmilkin.com/apple-touch-icon.png",
+      "kind": "website-icon",
+      "bytes": 5610,
+      "sha256": "6192b87bbd0f1847ae2092c5347bc4f30fea9e9a8d88c4085edef375d7b69cb3"
+    },
+    {
+      "id": "r46",
+      "file": "resource-icons/r46.png",
+      "url": "https://digilab.co/apple-touch-icon.png",
+      "kind": "website-icon",
+      "bytes": 2449,
+      "sha256": "46a88644b547e5af52da8e9454c86f0de2595f0a7fabfad10405e998b2c3a91e"
+    },
+    {
+      "id": "r47",
+      "file": "resource-icons/r47.png",
+      "url": "https://stefanvitasovic.dev/favicon/apple-touch-icon.png",
+      "kind": "website-icon",
+      "bytes": 9716,
+      "sha256": "1833987231dc6005808ae8a4cdde2a0e46f8f194f8092d331d76079958a347f8"
+    },
+    {
+      "id": "r48",
+      "file": "resource-icons/r48.ico",
+      "url": "https://18.burocratik.com/favicon.ico",
+      "kind": "website-icon",
+      "bytes": 15086,
+      "sha256": "498f8ce18d474ec1b753ced22fd461fa612ee5e7adc1a4ca1131327b1fc3577b"
+    },
+    {
+      "id": "r49",
+      "error": "No usable public icon"
+    },
+    {
+      "id": "r50",
+      "file": "resource-icons/r50.ico",
+      "url": "https://blog.yamds.cafe/favicon.ico",
+      "kind": "website-icon",
+      "bytes": 4257,
+      "sha256": "f51165863e36a08e9a5ff30aa9ed32e10152252742d1cfbd0dacc03b5e3d33f5"
+    },
+    {
+      "id": "r51",
+      "file": "resource-icons/r51.svg",
+      "url": "https://images.stripeassets.com/fzn2n1nzq965/1hgcBNd12BfT9VLgbId7By/01d91920114b124fb4cf6d448f9f06eb/favicon.svg",
+      "kind": "website-icon",
+      "bytes": 412,
+      "sha256": "7253e3eb4657773723a696a1f4ad9c8f62794191b9f09c1359db74a51d2d3ae5"
+    },
+    {
+      "id": "r52",
+      "error": "No usable public icon"
+    },
+    {
+      "id": "r53",
+      "file": "resource-icons/r53.png",
+      "url": "https://avatars.githubusercontent.com/u/76263028?v=4?s=96",
+      "kind": "repository-owner",
+      "bytes": 10715,
+      "sha256": "4124b8d03b154d23afe1d6b9a0b9b7813c5b40407d8d039c38d6ff3b2e923239",
+      "owner": "anthropics"
+    },
+    {
+      "id": "r54",
+      "file": "resource-icons/r54.png",
+      "url": "https://avatars.githubusercontent.com/u/246974152?v=4?s=96",
+      "kind": "repository-owner",
+      "bytes": 230435,
+      "sha256": "4305d95182d60f6406e851a526e2192488bf9a274bb1fbd7da49c6833930fa43",
+      "owner": "nextlevelbuilder"
+    },
+    {
+      "id": "r55",
+      "file": "resource-icons/r55.jpg",
+      "url": "https://avatars.githubusercontent.com/u/168751?v=4?s=96",
+      "kind": "repository-owner",
+      "bytes": 23875,
+      "sha256": "d73efaf546376109bb37c80d86d823043ad2daaefec693cc11d5b652a6dea8ab",
+      "owner": "jiji262"
+    },
+    {
+      "id": "r56",
+      "file": "resource-icons/r56.png",
+      "url": "https://avatars.githubusercontent.com/u/82741331?v=4?s=96",
+      "kind": "repository-owner",
+      "bytes": 279911,
+      "sha256": "df401c7fe3324f3d105150d55581e95a38d6e2d19e58f3e715d5554167586c92",
+      "owner": "X-T-E-R"
+    },
+    {
+      "id": "r57",
+      "file": "resource-icons/r57.jpg",
+      "url": "https://avatars.githubusercontent.com/u/43004?v=4?s=96",
+      "kind": "repository-owner",
+      "bytes": 5749,
+      "sha256": "605cb5a12467eb2cfe628af4bf8275c9ae1191dfbe29735c7b69bd733bd43e09",
+      "owner": "pbakaus"
+    },
+    {
+      "id": "r58",
+      "file": "resource-icons/r58.jpg",
+      "url": "https://avatars.githubusercontent.com/u/219127460?v=4?s=96",
+      "kind": "repository-owner",
+      "bytes": 16627,
+      "sha256": "74e5db9bc2cf66226cbfc09f3a624048cffb7aa14aca5747e7f7fc253c2f2655",
+      "owner": "Leonxlnx"
+    },
+    {
+      "id": "r59",
+      "file": "resource-icons/r59.jpg",
+      "url": "https://avatars.githubusercontent.com/u/219127460?v=4?s=96",
+      "kind": "repository-owner",
+      "bytes": 16627,
+      "sha256": "74e5db9bc2cf66226cbfc09f3a624048cffb7aa14aca5747e7f7fc253c2f2655",
+      "owner": "Leonxlnx"
+    },
+    {
+      "id": "r60",
+      "file": "resource-icons/r60.png",
+      "url": "https://avatars.githubusercontent.com/u/228589244?v=4?s=96",
+      "kind": "repository-owner",
+      "bytes": 140808,
+      "sha256": "e51fbb2e3f16090a72a8012347c97eb50c95435c4125a5a30e20671f1c26c813",
+      "owner": "cyxzdev"
+    },
+    {
+      "id": "r61",
+      "file": "resource-icons/r61.jpg",
+      "url": "https://avatars.githubusercontent.com/u/63742054?v=4?s=96",
+      "kind": "repository-owner",
+      "bytes": 21434,
+      "sha256": "7410b78875990a22339f7cd6f600d68d56807ae878450f269f952eb36154dac5",
+      "owner": "Nutlope"
+    },
+    {
+      "id": "r62",
+      "file": "resource-icons/r62.png",
+      "url": "https://avatars.githubusercontent.com/u/108547162?v=4?s=96",
+      "kind": "repository-owner",
+      "bytes": 1070,
+      "sha256": "b7c16d46d8f08178ae65aa6d9a67a0cb00af48cb18f77416335eb5b9cba5988b",
+      "owner": "vercel-labs"
+    },
+    {
+      "id": "r63",
+      "file": "resource-icons/r63.jpg",
+      "url": "https://avatars.githubusercontent.com/u/36730035?v=4?s=96",
+      "kind": "repository-owner",
+      "bytes": 5933,
+      "sha256": "196587dbf68738ec9694b3adc3c67690919c13c42f364a1ca9866f558233ee58",
+      "owner": "emilkowalski"
+    },
+    {
+      "id": "r64",
+      "file": "resource-icons/r64.png",
+      "url": "https://avatars.githubusercontent.com/u/2386673?v=4?s=96",
+      "kind": "repository-owner",
+      "bytes": 10561,
+      "sha256": "d4d9d04e21808926096d9b50484d67e7e4a1978dcf6ff95f54c97d6a0b84205b",
+      "owner": "greensock"
+    },
+    {
+      "id": "r65",
+      "file": "resource-icons/r65.jpg",
+      "url": "https://avatars.githubusercontent.com/u/130662349?v=4?s=96",
+      "kind": "repository-owner",
+      "bytes": 24909,
+      "sha256": "16735191d6115a432f15b1b00e05b0046653a9b826032470c4fd51970d87cc0b",
+      "owner": "AnxForever"
+    },
+    {
+      "id": "r66",
+      "file": "resource-icons/r66.jpg",
+      "url": "https://avatars.githubusercontent.com/u/136247805?v=4?s=96",
+      "kind": "repository-owner",
+      "bytes": 17939,
+      "sha256": "e72273ea3ce6f191aaeae475d4d5279828e56596ddc6aa5d1435f564aaed9e69",
+      "owner": "yg2224"
+    }
+  ]
+}

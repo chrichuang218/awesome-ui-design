@@ -1,0 +1,72 @@
+[
+  {
+    "file": "public/toools/bg-body-top.jpg",
+    "url": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/6a09586de302f22e60fd3e8e_bg-body-top.jpg",
+    "sha256": "4e01fc26eb797e2c9f422c0db6600fa1d75bd6666c41354c83113b23e72ebd98"
+  },
+  {
+    "file": "public/toools/inter-regular.woff2",
+    "url": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/6999d4f7e3a99078914e2c18_subset-Inter-Regular.woff2",
+    "sha256": "2076991ce1abde78869724a8854c61f0b660f1ad4028e45b50fde22b0f6e4c5d"
+  },
+  {
+    "file": "public/toools/inter-bold.woff2",
+    "url": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/6999d50f055771aadc111096_Inter-Bold.woff2",
+    "sha256": "40e30e397293ede7cb115dbe81013fecc314c635ac80221b91617615970d7802"
+  },
+  {
+    "file": "public/toools/dot-01.svg",
+    "url": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/673c8a8d4cb04225d5b059a0_keyvisual-logo-01.svg",
+    "sha256": "3109d068094154d1e1b6fe144200ee8ce08533e6b94dd00a149292ff303c86d7"
+  },
+  {
+    "file": "public/toools/dot-02.svg",
+    "url": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/673c8a8d7649189762ed338a_keyvisual-logo-02.svg",
+    "sha256": "0f7dd889f9fc1a1369ea0c2064976963b451a638752d27c45ac7939f05f2dfab"
+  },
+  {
+    "file": "public/toools/dot-03.svg",
+    "url": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/6a2bb1f886253fcdeb7bc099_icon-claude.svg",
+    "sha256": "766442dd8a4d456319b4da58aee9148005bd09736d196ea68ea5e0ab17d04d8b"
+  },
+  {
+    "file": "public/toools/dot-04.svg",
+    "url": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/673c8a8d2111b7b80438b56f_keyvisual-logo-04.svg",
+    "sha256": "f187f4fbfa802d02cb3e1af3d6a3bb347a5fc9b86e10e9c35e098ce0b17a5985"
+  },
+  {
+    "file": "public/toools/dot-05.svg",
+    "url": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/6a2bb40b807242bd1639d4f0_icon-jitter.svg",
+    "sha256": "18122dd8f8a7e6431735280e785e85411b7a1e6a9ca7d7f2c618088ad31450f4"
+  },
+  {
+    "file": "public/toools/dot-06.jpg",
+    "url": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/673c8a8d9f40c25d028dd147_keyvisual-logo-06.jpg",
+    "sha256": "cd839bccb3b1633c3f07209cfca0f8491759448cda61017fa5775f08b29b5e66"
+  },
+  {
+    "file": "public/toools/dot-07.svg",
+    "url": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/6a2bb3c3d180a66800e577c5_icon-lummi.svg",
+    "sha256": "e0d7b4df9e62f5aa35b168d2ea68b437590cf9cf9dd2e6d82aaf83c8056a01f1"
+  },
+  {
+    "file": "public/toools/dot-08.svg",
+    "url": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/6a2bb6a9abf3beeca919802e_icon-laws-of-ux.svg",
+    "sha256": "08bd1165b30060567c923e92ea953441ef3fa09749d93c743901e314cbe7ea15"
+  },
+  {
+    "file": "public/toools/dot-09.svg",
+    "url": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/6a2bb40bc759af0572493c8e_icon-recraft.svg",
+    "sha256": "2dc7d70ad71b85b725ab562df39536f01f61e70c30a77310dc2db8b7284b42eb"
+  },
+  {
+    "file": "public/toools/dot-10.webp",
+    "url": "https://cdn.prod.website-files.com/5ce10a4c0b5f0b05f522e746/6a2bba017493094e48c1e9ce_icon-lovable.webp",
+    "sha256": "9031b7bd26f87c036a3f9d88ca14574e73f1a673c6781e16927cc605669e0539"
+  },
+  {
+    "file": "public/toools/mobbin-preview.webp",
+    "url": "https://cdn.prod.website-files.com/5ce10a4d0b5f0b560c22e756/6a38fe7685c2bc351f24dc21_mobbin-mcp-connectors.webp",
+    "sha256": "91274fb0ca6634dac808ece76b4e5f91ba1bbcae87cc3d0ca2315bade5c8af0e"
+  }
+]
