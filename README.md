@@ -61,3 +61,7 @@ GitHub 仓库主页展示本 README，点击上方入口或截图即可打开交
 ## 授权与来源
 
 本站代码采用 MIT License。资源链接及描述用于索引，第三方网站、商标、素材与 Skill 的许可由各自作者决定。完整来源见 `docs/resource-research.md`。
+
+## 致谢
+
+感谢 [LINUX DO](https://linux.do/) 社区的支持与讨论。
