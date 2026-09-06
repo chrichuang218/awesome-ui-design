@@ -1183,6 +1183,13 @@ dialog::backdrop {
   }
 }
 
+/* Enlarge desktop layout and typography together, like 110% browser zoom. */
+@media(min-width:1100px) {
+  :root {
+    zoom:1.1;
+  }
+}
+
 @media(prefers-reduced-motion:reduce) {
   *,*::before,*::after {
     transition:none!important;
