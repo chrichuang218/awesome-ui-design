@@ -1,6 +1,6 @@
 {
   "name": "awesome-ui-design",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -10,5 +10,8 @@
     "test": "node --test tests/catalog.test.js",
     "test:browser": "node tests/browser.mjs"
   },
-  "devDependencies": { "vite": "^7.3.0", "playwright": "^1.58.0" }
+  "devDependencies": {
+    "vite": "^7.3.0",
+    "playwright": "^1.58.0"
+  }
 }
