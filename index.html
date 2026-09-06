@@ -1,0 +1,57 @@
+<!doctype html>
+<!-- System: editorial directory; ivory #f6f5f0, ink #252b27, vermilion #b9442b.
+     Typography: Georgia + Microsoft YaHei; 64/36/24/18/16/13. Spacing: 8/16/24/32/48/64.
+     Content comes from the author's Linux.do resource collection, not live provider data. -->
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="从你的设计任务出发，找到合适的前端灵感、UI 工具和 Agent Skills。含推荐理由和使用提示。">
+  <meta name="theme-color" content="#f6f5f0">
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <title>UI Design Guide · 界面设计指南</title>
+  <link rel="stylesheet" href="./src/style.css">
+</head>
+<body>
+  <a class="skip" href="#main">跳到正文</a>
+  <header class="header wrap">
+    <a class="brand" href="./" aria-label="UI Design Guide 首页"><span class="brand-mark" aria-hidden="true">↗</span><span>UI Design Guide<small>界面设计指南</small></span></a>
+    <nav aria-label="主导航"><a class="current" href="#guide">选择指南</a><a href="#library">资源目录</a></nav>
+  </header>
+  <main id="main">
+    <section class="hero wrap" aria-labelledby="hero-title">
+      <div class="hero-copy"><p class="eyebrow"><span class="tiny-line"></span> A FIELD GUIDE TO BETTER INTERFACES</p><h1 id="hero-title">好界面，<br>从选对<span class="accent-word">工具</span>开始。</h1><p class="hero-description">灵感、组件、设计 Skills。<br>告诉我们你想做什么，找到此刻最合适的那几个。</p><a class="primary-link" href="#guide">找到我的起点 <span aria-hidden="true">↗</span></a><p class="hero-note">为刚开始的你，也为每一次重新出发。</p></div>
+      <aside class="field-card" aria-label="资源使用路径">
+        <div class="field-top"><span>THE DESIGN FIELD NOTES</span><span>VOL. 01</span></div>
+        <p class="field-title">先有方向，<br>再选工具。</p>
+        <ol class="field-steps"><li><span>01</span><div><strong>看见好设计</strong><small>从真实界面建立参考</small></div><span>↗</span></li><li><span>02</span><div><strong>做出自己的版本</strong><small>把风格变成可执行约束</small></div><span>↗</span></li><li><span>03</span><div><strong>让细节站得住</strong><small>检查可用性，再打磨动效</small></div><span>↗</span></li></ol>
+        <div class="field-bottom"><span>设计网站与 Agent Skills，持续收录</span><span class="field-stamp" aria-hidden="true">UI<br>↗</span></div>
+      </aside>
+    </section>
+    <section class="guide-section" id="guide" aria-labelledby="guide-title"><div class="wrap">
+      <div class="section-heading"><div><p class="eyebrow">01 / FIND YOUR WAY</p><h2 id="guide-title">你现在想做什么？</h2></div><p>从一个任务开始，少一点选择负担。</p></div>
+      <div class="intents" id="intents" role="group" aria-label="选择设计任务"></div>
+      <section class="recommendation" aria-labelledby="route-title">
+        <div class="route-summary"><span class="tag">建议路线</span><h3 id="route-title"></h3><p id="route-description"></p><label for="project">用在什么项目？</label><select id="project"><option value="product">产品 / 桌面工具</option><option value="marketing">品牌 / 落地页</option><option value="portfolio">博客 / 作品集</option></select><button class="copy-button" id="copy-prompt">复制给 AI 的使用提示 <span aria-hidden="true">↗</span></button><p class="route-hint">根据所选任务和项目类型生成，可直接粘贴。</p></div>
+        <div class="route-items" id="route-items"></div>
+      </section>
+    </div></section>
+    <section class="library wrap" id="library" aria-labelledby="library-title">
+      <div class="section-heading"><div><p class="eyebrow">02 / THE COLLECTION</p><h2 id="library-title">把好用的，放在一起。</h2></div><p>按用途选择，找到适合你的工具。</p></div>
+      <div class="library-tools"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜索名称、用途，例如：配色、React、动效" aria-label="搜索资源"><kbd>/</kbd></label><label class="sort">排序<select id="sort"><option value="curated">收录顺序</option><option value="name">名称 A–Z</option></select></label></div>
+      <div class="category-row" id="categories" role="group" aria-label="筛选资源分类"></div>
+      <div class="result-line"><span id="result-count" role="status"></span><span>选「加入对比」，一次比较至多 3 个</span></div>
+      <div class="resource-grid" id="resources"></div>
+      <div class="empty" id="empty" hidden><h3>还没有找到匹配的资源</h3><p>试试“字体”“动效”，或清除筛选重新探索。</p><button id="reset">清除全部筛选</button></div>
+      <div class="pagination"><button id="previous">← 上一页</button><span id="page-count"></span><button id="next">下一页 →</button></div>
+    </section>
+  </main>
+  <footer class="wrap footer"><span>UI Design Guide <span class="muted">/ 界面设计指南</span></span><span>从收藏，走向创作。</span></footer>
+  <div class="compare-tray" id="compare-tray" hidden><span id="compare-count"></span><button id="compare-open">查看对比 →</button><button id="compare-clear">清空</button></div>
+  <dialog id="detail"><div class="dialog-header"><span class="eyebrow">RESOURCE NOTES</span><button data-close aria-label="关闭详情">×</button></div><div id="detail-body"></div></dialog>
+  <dialog id="comparison"><div class="dialog-header"><h2>一起比较，更好选择。</h2><button data-close aria-label="关闭对比">×</button></div><div id="comparison-body"></div></dialog>
+  <dialog id="prompt-fallback"><div class="dialog-header"><h2>复制使用提示</h2><button data-close aria-label="关闭使用提示">×</button></div><p>浏览器未允许自动复制，请选中下方文字后复制。</p><textarea id="prompt-text" readonly aria-label="使用提示"></textarea></dialog>
+  <div id="notification" class="notification" role="status" hidden></div>
+  <noscript><p class="wrap">请启用 JavaScript 使用搜索和选择指南。</p></noscript>
+  <script type="module" src="./src/main.js"></script>
+</body></html>
